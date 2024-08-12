@@ -11,7 +11,7 @@ def onclick(args):
     #  between 1 and 3
     opponent_selection = random.randint(1,3)
 
-    # TODO 3) Run the program again. Is the result different?
+    # TODO 3) Run the 0program again. Is the result different?
 
     selection = 1
 
